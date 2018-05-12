@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/561
     wikipedia: http://en.wikipedia.org/wiki/John_Tyndall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24527#Fragments-of-Science--A-Series-of-Detached-Essays-Addresses-and-Reviews.-V.-1-2
 gutenberg_bookshelf: Science
 gutenberg_issued: '2008-02-06'
 gutenberg_type: Text
