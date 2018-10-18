@@ -11,6 +11,7 @@ Title: Fragments of science, V. 1-2
 Author: John Tyndall
 
 Release Date: February 6, 2008 [EBook #24527]
+Last Updated: July 21, 2017
 
 Language: English
 
@@ -352,7 +353,7 @@ moon are kept in company, the force which holds every respective pair
 of masses together being the integrated force of their component
 parts.  Under the operation of this force a stone falls to the ground
 and is warmed by the shock; under its operation meteors plunge into
-our atmosphere mid rise to incandescence.  Showers of such meteors
+our atmosphere and rise to incandescence.  Showers of such meteors
 doubtless fall incessantly upon the sun.  Acted on by this force, the
 earth, were it stopped in its orbit to-morrow, would rush towards, and
 finally combine with, the sun.  Heat would also be developed by this
@@ -375,8 +376,8 @@ question has already been answered in a general way.  Both light and
 heat are modes of motion.  Two planets clash and come to rest; their
 motion, considered as that of masses, is destroyed, but it is in great
 part continued as a motion of their ultimate particles.  It is this
-latter motion, taken up by the rather, and propagated through it with
-a velocity of 186,000 miles a second, that comes to its as the light
+latter motion, taken up by the aether, and propagated through it with
+a velocity of 186,000 miles a second, that comes to us as the light
 and heat of suns and stars.  The atoms of a hot body swing with
 inconceivable rapidity--billions of times in a second--but this power
 of vibration necessarily implies the operation of forces between the
@@ -430,7 +431,7 @@ simply to the quantity of the attracting matter, regardless of its
 quality.  But in the molecular world which we have now entered matters
 are otherwise arranged.  Here we have atoms between which a strong
 attraction is exercised, and also atoms between which a weak
-attraction is exercised.  One atom can jostle another out of its place
+attraction is exercised.  One atom can jostle another out of its place,
 in virtue of a superior force of attraction.  But, though the amount
 of force exerted varies thus from atom to atom, it is still an
 attraction of the same mechanical quality, if I may use the term, as
@@ -597,7 +598,7 @@ before, the work is also proportional to the weight elevated.  Hence
 the work which any moving mass whatever is competent to perform, in
 virtue of the motion which it at any moment possesses, is jointly
 proportional to its weight and the square of its velocity.  Here,
-then, we have a second measure of work-, in which we simply translate
+then, we have a second measure of work, in which we simply translate
 the idea of height into its equivalent idea of motion.
 
 In mechanics, the product of the mass of a moving body into the square
@@ -745,7 +746,7 @@ either carries with it the enhancement of the other, the total value
 of the property remaining unchanged.
 
 The considerations here applied to gravity apply equally to chemical
-affinity.  Ina mixture of oxygen and hydrogen the atoms exist apart,
+affinity.  In a mixture of oxygen and hydrogen the atoms exist apart,
 but by the application of proper means they may be caused to rush
 together across that space that separates them.  While this space
 exists, and as long as the atoms have not begun to move towards each
@@ -873,7 +874,7 @@ constituents of our rocks clashed together and produced the motion of
 heat, which was taken up by the aether and carried away through
 stellar space.  It is lost for ever as far as we are concerned.  In
 those ages the hot conflict of carbon, oxygen, and calcium produced
-the chalk and limestone bills which are now cold; and from this
+the chalk and limestone hills which are now cold; and from this
 carbon, oxygen, and calcium no further energy can be derived.  So it
 is with almost all the other constituents of the earth's crust. They
 took their present form in obedience to molecular force; they turned
@@ -1126,7 +1127,7 @@ through blue, indigo, and violet, to the extreme ultra-violet rays.
 
 Such are the changes recognised by the mind in the wire itself, as
 concurrent with the visual changes taking place in the eye.  But what
-connects the wire with this organ By what means does it send such
+connects the wire with this organ? By what means does it send such
 intelligence of its varying condition to the optic nerve?  Heat being
 as defined by Locke, 'a very brisk agitation of the insensible parts
 of an object,' it is readily conceivable that on touching a heated
@@ -1265,7 +1266,7 @@ cylinder are stopped by two plates of rock-salt, a solid substance
 which offers a scarcely sensible obstacle to the passage of the
 calorific waves.  After passing through the tube, the radiant heat
 falls upon the anterior face of a thermo-electric pile, [Footnote: In
-the Appendix to the first chapter of 'Heat as a Mode of 'Motion,' the
+the Appendix to the first chapter of 'Heat as a Mode of Motion,' the
 construction of the thermo-electric pile is fully explained.] which
 instantly converts the heat into an electric current.  This current
 conducted round a magnetic needle deflects it, and the magnitude of
@@ -1362,7 +1363,7 @@ is 1,800 times that of air.
 5.  Formation of Invisible Foci.
 
 This extraordinary deportment of the elementary gases naturally
-directed attention to elementary bodies 'in other states of
+directed attention to elementary bodies in other states of
 aggregation.  Some of Melloni's results now attained a new
 significance.  This celebrated experimenter had found crystals of
 sulphur to be highly pervious to radiant heat; he had also proved that
@@ -1387,7 +1388,7 @@ Professor Dewar has recently succeeded in producing a medium highly
 opaque to light, and highly transparent to obscure heat, by fusing
 together sulphur and iodine.]
 
-By prismatic analysis Sir William Herschel separate the luminous from
+By prismatic analysis Sir William Herschel separated the luminous from
 the non-luminous rays of the sun, and he also sought to render the
 obscure rays visible by concentration.  Intercepting the luminous
 portion of his spectrum he brought, by a converging lens, the
@@ -1674,7 +1675,7 @@ distance of a foot the visible radiation of the electric light
 employed in these experiments is 800 times the light of a candle.  At
 the same distance, the portion of the radiation of the electric light
 which reaches the retina, but fails to excite vision, is about 1,500
-times the luminous radiation of the candle.' [Footnote: It will be
+times the luminous radiation of the candle. [Footnote: It will be
 borne in mind that the heat which any ray, luminous or non-luminous,
 is competent to generate is the true measure of the energy of the
 ray.]  But a candle on a clear night can readily be seen at a distance
@@ -1793,7 +1794,7 @@ And thus it is with all other kinds of matter, as far as they have
 hitherto been examined.  Coke, whether brought to a white heat by the
 electric current, or by the oxyhydrogen jet, pours out invisible rays
 with augmented energy, as its light is increased.  The same is true of
-lime, bricks, and 'other substances.  It is true of all metals which
+lime, bricks, and other substances.  It is true of all metals which
 are capable of being heated to incandescence.  It also holds good for
 phosphorus burning in oxygen.  Every gush of dazzling light has
 associated with it a gush of invisible radiant heat, which far
@@ -1883,7 +1884,7 @@ and yet patchouli acts more feebly on radiant heat than any other
 perfume yet examined.
 
 Here follow the results obtained with various essential oils, the
-odour, in each case, being carried by a current of dry air into the be
+odour, in each case, being carried by a current of dry air into the tube
 already employed for gases and vapours:
 
 Name of perfume                       Absorption
@@ -2023,11 +2024,11 @@ established by direct experiments on it taken from the streets and
 parks of London, from the downs of Epsom, from the hills and sea-beach
 of the Isle of Wight, and also by experiments on air in the first
 instance dried, and afterwards rendered artificially humid by pure
-distilled water.  It has also en established in the following way: Ten
-volatile quids were taken at random and the power of these quids, at a
-common thickness, to intercept the waves f heat, was carefully
-determined.  The vapours of the quids were next taken, in quantities
-proportional to e quantities of liquid, and the power of the vapours
+distilled water.  It has also been established in the following way: Ten
+volatile liquids were taken at random and the power of these liquids, at a
+common thickness, to intercept the waves of heat, was carefully
+determined.  The vapours of the liquids were next taken, in quantities
+proportional to the quantities of liquid, and the power of the vapours
 intercept the waves of heat was also determined.
 
 Commencing with the substance which exerted the least absorptive
@@ -2164,19 +2165,19 @@ extraordinary way.
 Analysis of the Human Breath.
 
 In the foregoing experiments with gases and vapours have employed
-throughout invisible rays, and found e of these bodies so impervious
+throughout invisible rays, and found some of these bodies so impervious
 to radiant heat, that lengths of a few feet they intercept every ray
 as actually as a layer of pitch.  The substances, however, which show
 themselves thus opaque to radiant heat perfectly transparent to light.
 Now the rays of light differ from those of invisible heat merely in
-point period, the former failing to affect the retina because their
+point of period, the former failing to affect the retina because their
 periods of recurrence are too slow.  Hence, in one way or other, the
 transparency of our gases and vapours depends upon the periods of the
 waves which impinge upon them.  What is the nature of this dependence?
 The admirable researches of Kirchhoff help us an answer.  The atoms
-and molecules of every gas e certain definite rates of oscillation,
+and molecules of every gas have certain definite rates of oscillation,
 and those waves aether are most copiously absorbed whose periods
-recurrence synchronise with those of the atomic ups amongst which they
+recurrence synchronise with those of the atomic groups amongst which they
 pass.  Thus, when we find invisible rays absorbed and the visible ones
 transmitted by a layer of gas, we conclude that the oscillating
 periods of the atoms constituting the gaseous molecules coincide with
@@ -2267,7 +2268,7 @@ powerful hold upon the aether than single atoms can.  Another, and
 probably very potent cause of the difference may be, that the
 vibrations, being those of the constituent atoms of the molecule,
 [Footnote: See 'Physical Considerations,' Art. iv.] are generated
-in highly condensed aether, which acts like: condensed air upon sound.
+in highly condensed aether, which acts like condensed air upon sound.
 But whatever may be the fate of these attempts to visualise the physics
 of the process, it will still remain true, that to account for the
 phenomena of radiation and absorption we must take into consideration
@@ -2288,7 +2289,7 @@ while many of the compound gases presented almost impassable obstacles
 to the calorific-waves.  This deportment of the simple gases directed
 our attention to other elementary bodies, the examination of which led
 to the discovery that the element iodine, dissolved in bisulphide of
-carbon, possesses the power detaching, with extraordinary sharpness,
+carbon, possesses the power of detaching, with extraordinary sharpness,
 the light of the spectrum from its heat, intercepting all luminous
 rays up to the extreme red, and permitting the calorific rays beyond
 the red to pass freely through it.  This substance was then employed
@@ -2341,7 +2342,7 @@ molecular form, on absorption and radiation, and finally deduced, from
 its action upon radiant heat, the exact amount of carbonic acid
 expired by the human lungs.
 
-Thus, in brief outline, were placed before you some ofthe results of
+Thus, in brief outline, were placed before you some of the results of
 recent enquiries in the domain of Radiation, and my aim throughout has
 been to raise in your minds distinct physical images of the various
 processes involved in our researches.  It is thought by some that
@@ -2674,12 +2675,12 @@ scientific men to determine the substances of which the sun, the
 stars, and even the nebulae are composed; the principle, namely, that
 a body which is competent to emit any ray, whether of heat or light,
 is competent in the same degree to absorb that ray.  The absorption
-depends on the synchronism existing between the vibrations of the toms
-from which the rays, or more correctly the waves, sue, and those of
+depends on the synchronism existing between the vibrations of the atoms
+from which the rays, or more correctly the waves, issue, and those of
 the atoms on which they impinge.
 
 To its almost total incompetence to emit white light, aqueous vapour
-adds a similar incompetence to absorb bite light.  It cannot, for
+adds a similar incompetence to absorb white light.  It cannot, for
 example, absorb the luminous rays of the sun, though it can absorb the
 non-luminous rays of the earth.  This incompetence of the vapour to
 absorb luminous rays is shared by water and ice--in fact, by all
@@ -2937,7 +2938,7 @@ colour had no influence on radiation, no chance had been given to it
 of asserting its influence; when it was found that all chemical
 precipitates radiated alike, it was the radiation from a varnish,
 common to them all, which showed the observed constancy.  Hundreds,
-perhaps thousands, of experiments on' radiant heat have been performed
+perhaps thousands, of experiments on radiant heat have been performed
 in this way, by various enquirers, but the work will, I fear, have to
 be done over again.  I am not, indeed, acquainted with an instance in
 which an oversight of so trivial a character has been committed by so
@@ -2958,7 +2959,7 @@ the gum, I take two powders presenting the same physical appearance;
 one of them is a compound of mercury, and the other a compound of
 lead.  On two surfaces of a cube are spread these bright red powders,
 without varnish of any kind.  Filling the cube with boiling water, and
-determining the radiation from the' two surfaces, one of them is found
+determining the radiation from the two surfaces, one of them is found
 to emit thirty-nine units of heat, while the other emits seventy-four.
 This, surely, is a great difference.  Here, however, is a second cube,
 having two of its surfaces coated with the same powders, the only
@@ -3077,10 +3078,10 @@ of vulcanised India-rubber were invariably employed.
 
 The little flask, thus formed, being partially filled with the liquid
 whose vapour was to be examined, was introduced into the path of the
-purified current Of air.  The experimental tube being exhausted, and
-the cock hick cut off the supply of purified air being cautiously
+purified current of air.  The experimental tube being exhausted, and
+the cock which cut off the supply of purified air being cautiously
 turned on, the air entered the flask through the tube b, and escaped
-by the small orifice at the lower end of into the liquid.  Through
+by the small orifice at the lower end of b into the liquid.  Through
 this it bubbled, loading itself with vapour, after which the mixed air
 and vapour, passing from the flask by the tube a, entered the
 experimental tube, where they were subjected to the action of light.
@@ -3249,7 +3250,7 @@ transferred to the molecule as a whole, or to its constituent parts?
 The molecule, as a whole, can only vibrate in virtue of the forces
 exerted between it and its neighbour molecules.  The intensity of
 these forces, and consequently the rate of vibration, would, in this
-case, be a Junction of the distance between the molecules.  Now the
+case, be a function of the distance between the molecules.  Now the
 identical absorption of the liquid and of the vaporous nitrite of amyl
 indicates an identical vibrating period on the part of liquid and
 vapour, and this, to my mind, amounts to an experimental proof that
@@ -3346,7 +3347,7 @@ liquid is, at first, more languid than upon iodide of allyl; indeed
 many beautiful reactions may be overlooked, in consequence of this
 languor at the commencement.  After some minutes' exposure, however,
 clouds begin to form, which grow in density and in beauty as the light
-continues to act.  In every experiments hitherto made with this
+continues to act.  In every experiment hitherto made with this
 substance the column of cloud filling the experimental tube, was
 divided into two distinct parts near the middle of the tube.  In one
 experiments a globe of cloud formed at the centre, from which, right
@@ -5042,7 +5043,7 @@ the certainty of failure in experiments less severely carried out.
 Dr. Bennett's Experiments.
 
 But I do not wish to leave an assertion of this kind without
-illustration.  Take, then', the well-conceived experiments of Dr.
+illustration.  Take, then, the well-conceived experiments of Dr.
 Hughes Bennett, described before the Royal Society of Surgeons in
 Edinburgh on January 17, 1868. [Footnote: 'British Medical Journal,'
 13, pt. ii. 1868.]  Into flasks containing decoctions of
@@ -7364,7 +7365,7 @@ lower down is the railway suspension bridge.  Between ferry and bridge
 the river Niagara flows unruffled; but at the suspension bridge the
 bed steepens and the river quickens its motion.  Lower down the gorge
 narrows, and the rapidity and turbulence increase.  At the place
-called the' Whirlpool Rapids' I estimated the width of the river at
+called the 'Whirlpool Rapids' I estimated the width of the river at
 300 feet, an estimate confirmed by the dwellers on the spot.  When it
 is remembered that the drainage of nearly half a continent is
 compressed into this space, the impetuosity of the river's rush may be
@@ -14747,7 +14748,7 @@ the presence of a numerous audience, with a battery of fifteen large
 Leyden jars charged beside me.  Through some awkwardness on my part, I
 touched a wire leading from the battery, and the discharge went
 through my body.  Life was absolutely blotted out for a very sensible
-interval, without a trace of pain.  Ina second or so consciousness
+interval, without a trace of pain.  In a second or so consciousness
 returned; I vaguely discerned the audience and apparatus, and, by the
 help of these external appearances, immediately concluded that I had
 received the battery discharge.  The intellectual consciousness of my
@@ -26055,7 +26056,7 @@ XV.  PROFESSOR VIRCHOW AND EVOLUTION.
 THIS world of ours has, on the whole, been an inclement region for the
 growth of natural truth; but it may be that the plant is all the
 hardier for the bendings and buffetings it has undergone.  The
-torturing of a shrub, within certain limits, strengthens it Through
+torturing of a shrub, within certain limits, strengthens it. Through
 the struggles and passions of the brute, man reaches his estate;
 through savagery and barbarism his civilisation; and through illusion
 and persecution his knowledge of nature, including that of his own
